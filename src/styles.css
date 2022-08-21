@@ -1,10 +1,15 @@
 body {
   text-align: center;
   background-color: blanchedalmond;
+  display: block;
+}
+
+a {
+  margin: 0 12px;
 }
 
 .croissant-photo {
-  max-width: 60%;
+  max-width: 28em;
   display: block;
   border-radius: 16px;
   margin: 30px auto;
